@@ -1,7 +1,7 @@
 # Regressao-Logistica
-Projetos de Regressão Logística
+## Projetos de Regressão Logística
 
-**Projeto 1** - Previsão no futebol - https://github.com/MBrandao07/Regressao-Logistica/blob/main/Previsão_no_futebol_RL.ipynb
+**Projeto 1 - Previsão no futebol** - https://github.com/MBrandao07/Regressao-Logistica/blob/main/Previsão_no_futebol_RL.ipynb
 
 **Resumo**: O objetivo do projeto é criar um modelo de previsão onde seja possível prever em qual posição o time irá ficar baseado no seu elenco, características físicas dos jogadores e histórico das últimas temporadas.
 
