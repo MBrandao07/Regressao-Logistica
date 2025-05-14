@@ -5,13 +5,13 @@ Projetos de Regressão Logística
 Resumo: O objetivo do projeto é criar um modelo de previsão onde seja possível prever em qual posição o time irá ficar baseado no seu elenco, características físicas dos jogadores e histórico das últimas temporadas.
 Desenvolvimento: O desenvolvimento desse projeto foi realizado da seguinte maneira:
 
-Importação da base de dados
-Entendimento da base de dados
-Tratamento dos dados
-Análise dos dados
-Seleção de variáveis
-Treinamento os modelos
-Avaliação dos modelos
+* Importação da base de dados
+* Entendimento da base de dados
+* Tratamento dos dados
+* Análise dos dados
+* Seleção de variáveis
+* Treinamento os modelos
+- Avaliação dos modelos
 Reformulação da base de dados
 Treinamento dos modelos com a nova base
 Avaliação dos modelos
